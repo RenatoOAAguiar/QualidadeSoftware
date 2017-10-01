@@ -7,4 +7,5 @@
 * Matheus França
 * Rogério Amorim
 * Luiz Eduardo
+* Thiago Nonato
 
