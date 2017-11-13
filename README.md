@@ -1,11 +1,10 @@
-# Qualidade Software
+# QualidadeSoftware_Parte2
 ## **Trabalho para a matéria Qualidade de Software - UFG**
 
 > Alunos:
 
-* Renato Aguiar
+* Marcus Tulius
 * Matheus França
 * Rogério Amorim
 * Luiz Eduardo
 * Thiago Nonato
-
